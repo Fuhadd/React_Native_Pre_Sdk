@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/PhantomSans-Medium.ttf",
+      "sha1": "ad49c968340ea4f85b9bb23f0f6485db1b317606"
+    },
+    {
+      "path": "src/assets/fonts/PhantomSans-Regular.ttf",
+      "sha1": "bb86a96915f5e418be7dbc90a911ce8664f80a46"
+    },
+    {
+      "path": "src/assets/fonts/PhantomSans-SemiBold.ttf",
+      "sha1": "96344a52b795210148712200b5a94673589f1444"
+    }
+  ]
+}
